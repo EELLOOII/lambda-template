@@ -1,0 +1,11 @@
+{
+  "name": "lambda-template",
+  "version": "1.0.0",
+  "description": "AWS Lambda Node.js template with common methods",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "aws-sdk": "^2.1482.0"
+  }
+}
